@@ -5,10 +5,10 @@
 This project is an proof-of-concept (PoC) for an AI-powered tool designed to assist researchers and professionals in analyzing biodiversity datasets, specifically focusing on mammal occurrences. It allows users to ask questions in natural language, and the assistant will provide summarized results and visualizations, when possible.
 
 
-This MVP showcases this through:
+This PoC showcases this through:
 
 -   **LangChain Integration:** For easy integration of LLMs with existing data workflows.
--   **Groq LLM:** For leveraging a very fast language model, specifically the `mixtral-8x7b-32768` model, to generate the responses. This model has been used for its balance between speed and text generation quality, and has worked well during MVP development for summarizing insights based on complex queries.
+-   **Groq LLM:** For leveraging a very fast language model, specifically the `llama-3.1-8b-instant` model, to generate the responses. This model has been used for its balance between speed and text generation quality, and has worked well during MVP development for summarizing insights based on complex queries.
 -   **Streamlit Interface:** To create a user-friendly web-based application that anyone can use.
 -   **Plotly Visualizations:** For creating different types of interactive charts based on user inputs.
 
@@ -34,17 +34,15 @@ This MVP showcases this through:
 
 ## Tech Stack 🛠
 
--   Python
 -   Streamlit
 -   LangChain
--   Groq
--   pandas
+-   Groq API
+-   Pandas
 -   plotly
--  GeoPandas (optional)
 
 ## Disclaimer ⚠
 
-This MVP is a demonstration of the potential of AI in biodiversity data analysis and is not intended to be a fully functional or specialized AI tool. It should not be used for professional analysis or critical scientific decisions without proper validation. This tool may have inaccuracies, biases, or limitations based on underlying LLM capabilities and data quality. This application is a basic implementation and can be further improved by implementing advanced analytics and agentic AI techniques.
+This PoC is a demonstration of the potential of AI in biodiversity data analysis and is not intended to be a fully functional or specialized AI tool. It should not be used for professional analysis or critical scientific decisions without proper validation. This tool may have inaccuracies, biases, or limitations based on underlying LLM capabilities and data quality. This application is a basic implementation and can be further improved by implementing advanced analytics and agentic AI techniques.
 The accuracy of the results depends entirely on the quality of data and the capabilities of the underlying language model. The tool is not an agentic system, and it does not perform any complex data analysis workflows.
 
 
