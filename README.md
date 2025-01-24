@@ -6,7 +6,7 @@ This project is a **proof-of-concept (PoC) for an AI-powered tool** designed to 
 
 
 ## Demo 🕹
-<!--[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zoogist-insights.streamlit.app/)-->
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zoogist-insights.streamlit.app/)
 
 ## How To Use 👀
 1. Submit a question using the text input or select a demo query.
