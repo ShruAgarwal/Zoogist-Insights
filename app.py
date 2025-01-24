@@ -65,11 +65,15 @@ with st.sidebar:
 
     st.markdown(
         """
-        ---
          **👀 How to use:**
           1. Submit a question using the text input or select a demo query.
           2. Get AI-driven responses along with suggestions for charts to visualize.
           3. Use the container below to create charts from the drop-down selections and filter by habitat.
+        ---
+        ✨ **NOTE:** *If the LLM agent stops due to maximum iterations or encounters an error, simply press the **Run Query** button
+        with your question again, and it will show the results.*
+        
+        ---
         """
     )
     
