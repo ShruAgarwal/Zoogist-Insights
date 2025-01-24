@@ -2,10 +2,10 @@
 
 ## About
 
-This project is an proof-of-concept (PoC) for an AI-powered tool designed to assist researchers and professionals in analyzing biodiversity datasets, specifically focusing on mammal occurrences. It allows users to ask questions in natural language, and the assistant will provide summarized results and visualizations, when possible.
+This project is a proof-of-concept (PoC) for an AI-powered tool designed to demonstrate the capabilities of function calling using Large Language Models (LLMs). It aims to assist researchers and professionals in analyzing biodiversity datasets, specifically focusing on mammal occurrences (as of now). You can ask questions in natural language, and the tool will provide summarized results and suggest chart visualizations whenever possible.
 
 ## Demo 🕹
-<!--[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()-->
+<!--[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zoogist-insights.streamlit.app/)-->
 
 ## How To Use 👀
 1. Submit a question using the text input or select a demo query.
