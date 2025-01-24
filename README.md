@@ -1,8 +1,9 @@
 # Zoogist Insights 🐘🦦
 
-## About
+## About 🎯
 
 This project is a **proof-of-concept (PoC) for an AI-powered tool** designed to demonstrate the capabilities of **function calling using Large Language Models (LLMs)**. It aims to assist researchers and professionals in analyzing biodiversity datasets, specifically focusing on mammal occurrences (as of now). You can ask questions in natural language, and the tool will provide summarized results and suggest chart visualizations whenever possible.
+
 
 ## Demo 🕹
 <!--[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zoogist-insights.streamlit.app/)-->
@@ -46,6 +47,9 @@ This project is a **proof-of-concept (PoC) for an AI-powered tool** designed to 
 
 This PoC is a demonstration of the potential of AI in biodiversity data analysis and is not intended to be a fully functional or specialized AI tool. It should not be used for professional analysis or critical scientific decisions without proper validation. This tool may have inaccuracies, biases, or limitations based on underlying language model capabilities and data quality. The app is a basic implementation and can be further improved by implementing advanced analytics and agentic AI techniques.
 
+## Credits ✨
+- Original dataset taken from **[Zenodo](https://zenodo.org/records/11903722)** presented under **NCF public repository.**
+- *Thanks to* [Yuichiro's Streamlit Theme Editor](https://github.com/whitphx/streamlit-theme-editor) that helped me find the suitable app's theme :)
 
 <!--## Problem
 Professionals in the biodiversity domain, both globally and in India, frequently encounter challenges when dealing with complex and large datasets related to species occurrences. These datasets often require:
