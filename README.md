@@ -8,6 +8,10 @@ This project is a **proof-of-concept (PoC) for an AI-powered tool** designed to 
 ## Demo 🕹
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zoogist-insights.streamlit.app/)
 
+
+https://github.com/user-attachments/assets/b4818eb0-2175-4336-b13f-de33b462752c
+
+
 ## How To Use 👀
 1. Submit a question using the text input or select a demo query.
 2. After submitting, the LLM powered assistant will give a response, and also suggest charts to visualise it.
